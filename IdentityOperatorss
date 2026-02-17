@@ -1,0 +1,10 @@
+x = int(input("Enter an integer: "))
+y = int(input("Enter the same integer: "))
+#use identity operators and write the code
+print("x is y", x is y)
+print("x is not y", x is not y)
+x = float(input("Enter a Float Number: "))
+y = float(input("Enter the same Number: "))
+#use identity operators and write the code
+print("x is y" ,x is y)
+print("x is not y", x is not y)
